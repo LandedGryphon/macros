@@ -1,0 +1,1 @@
+python.exe ./MacroV2.0_PyQt6.py

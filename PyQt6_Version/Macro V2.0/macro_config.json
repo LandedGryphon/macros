@@ -1,0 +1,13 @@
+{
+    "theme": "dark",
+    "button_type": "esquerdo",
+    "saved_x": 960,
+    "saved_y": 540,
+    "key_start": "[",
+    "key_pause": "]",
+    "key_exit": "\\\\",
+    "click_delay_ms": 1,
+    "action_type": "hold",
+    "hold_duration_ms": 999999999,
+    "custom_key_name": "D"
+}

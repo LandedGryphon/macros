@@ -1,0 +1,14 @@
+{
+    "theme": "dark",
+    "button_type": "esquerdo",
+    "saved_x": 1441,
+    "saved_y": 650,
+    "key_start": "f1",
+    "key_pause": "f1",
+    "key_exit": "f1",
+    "click_delay_ms": 100,
+    "action_type": "hold",
+    "hold_duration_ms": 500,
+    "custom_key_name": "S",
+    "custom_key_stored": "s"
+}
